@@ -1,0 +1,14 @@
+{
+  "name": "recipe_connection",
+  "version": "1.0.0",
+  "description": "Cooking recipes sharing app",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rajib Mondal",
+  "license": "ISC",
+  "dependencies": {
+    "cities": "^2.0.0"
+  }
+}
